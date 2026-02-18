@@ -1,6 +1,6 @@
 cask "dictto" do
-  version "1.0.0"
-  sha256 "8d60d65bb727e7097acbd2f1da84dddd4cd0b02857d64b32f86546d3198c52dc"
+  version "1.1.0"
+  sha256 "f683d274086f1cc329a9a8e664bbbcc6b067aa0ea220c68b42762047853135aa"
 
   url "https://github.com/jhlee111/dictto/releases/download/v#{version}/Dictto-#{version}.dmg"
   name "Dictto"
